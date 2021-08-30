@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Tina's New Github Pages
+description:    "My new themed Github pages"
+url:            "https://dahhnym.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Tina Kim
+  url:          
+  email:        kdn725@gmail.com
 
 # Build settings
 markdown:       kramdown
